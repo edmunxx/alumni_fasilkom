@@ -1,3 +1,6 @@
+# alumni_fasilkom
+Aplikasi Mobile Alumni Fakultas Ilmu Komputer
+
 Aplikasi Mobile Alumni Fakultas Ilmu Komputer
 Project Mata Kuliah Pemrograman Mobile KJ002
 Universitas Esa Unggul
