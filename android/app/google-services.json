@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007472184456",
+    "project_id": "alumni-fasilkom",
+    "storage_bucket": "alumni-fasilkom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007472184456:android:54e33317f62554bbc5e33d",
+        "android_client_info": {
+          "package_name": "com.example.alumni_fasilkom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007472184456-64dmdalle33o4jmj89l8l20bpt9rdodo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWxbpf-mgraOQiHGCkIYmqYV9pnXaTO4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007472184456-64dmdalle33o4jmj89l8l20bpt9rdodo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

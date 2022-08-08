@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "format": "JSON",
+        "version": "1.1.0",
+        "projectId": "alumni-fasilkom",
+        "resourcePath": [
+            "job"
+        ],
+        "recursive": false,
+        "creationTime": 1658802142,
+        "app": "firefoo"
+    },
+    "data": {
+        "cK5NRqrOfOiJNods5HD3": {
+            "dateCreated": "June 10, 2022",
+            "descJob": "PT. ABC membuka lowongan pekerjaan untuk jabatan HRD dengan syarat S1. Dapat menghubungi 08987456321",
+            "namaJob": "Lowongan Pekejaan PT. ABC",
+            "__collections__": {}
+        },
+        "e13F2tlC1Si6r7Z4ZxBi": {
+            "dateCreated": "June 23, 2022",
+            "descJob": "Hai untuk kamu fresh graduate, alumni, dan mahasiswa tingkat akhir dari Fakultas Ilmu Komputer di Universitas Esa Unggul, raih kesempatan untuk bergabung dan berkarir di bidang ICT Solutions.\nYuk ikutan “Esa Unggul Virtual Campus Hiring bersama PT. Nusantara Compnet Integrator”\nTersedia Lowongan :\nNetwork Engineer Internship (Program Bootcamp)\nIkuti juga sesi webinar : How To Get Your Dream Job\n\nJangan sampai terlewat !!\nRabu, 29 Juni 2022\nPukul 09.45 – 12.00 WIB\nVia Zoom Meeting (link dikirimkan melalui email setelah registrasi)\n\nGRATISSSSS, Daftar disini !\nhttps://bit.ly/COMPNETxUEU",
+            "namaJob": "Esa Unggul Virtual Campus Hiring bersama PT Nusantara Compnet Integrator",
+            "__collections__": {}
+        },
+        "s8kjftzVuVJvwg4i4lCR": {
+            "dateCreated": "June 16, 2022",
+            "descJob": "We are Hiring! Join Our Team - Preschool Teacher \n- Primary Teacher \n- English Teacher \n- ICT Teacher \n- Counseling Guidance Teacher \n\nQualification: \n- Bachelor's Degree from related background \n- Max age 35 years \n- Fresh graduates are welcome \n- Creative and love to teach \n- Have good work discipline \nSent your resume with photograph attached to: \n- Email: hrdjkt@jacschool.com",
+            "namaJob": "Lowongan Kerja JAC School",
+            "__collections__": {}
+        }
+    }
+}

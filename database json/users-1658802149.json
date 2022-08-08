@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "format": "JSON",
+        "version": "1.1.0",
+        "projectId": "alumni-fasilkom",
+        "resourcePath": [
+            "users"
+        ],
+        "recursive": false,
+        "creationTime": 1658802150,
+        "app": "firefoo"
+    },
+    "data": {
+        "Pb72I0aKrTQ4BflalJYM": {
+            "email": "edmundo.ferdinandus@gmail.com",
+            "nama": "Edmundo Ferdinandus",
+            "nim": "20190801001",
+            "telpon": "081510708290",
+            "thnAngkatan": "2019",
+            "tmpttgllahir": "Jakarta, 6 Desember 2000",
+            "__collections__": {}
+        },
+        "ctjKad2YqtCaPtS6Wu40": {
+            "email": "febsama24@student.esaunggul.ac.id",
+            "nama": "Febsa Maulana Aziz",
+            "nim": "20200801210",
+            "telpon": "08389765431",
+            "thnAngkatan": "2020",
+            "tmpttgllahir": "Jakarta, 5 Mei 2002",
+            "__collections__": {}
+        }
+    }
+}

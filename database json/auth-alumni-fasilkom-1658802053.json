@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "localId": "MofaDFGjv4QNpQCX4HXxQtxEQIB3",
+      "email": "febsama24@student.esaunggul.ac.id",
+      "emailVerified": false,
+      "passwordHash": "ITZN7DWVO2Wo5/GaEkNUKeGOLdw1ehbv4g9kHURlXe2EHE9vlE74EvTbAvhGyEx8kPWJgs4s7ckGIaF6bJSFDg==",
+      "salt": "0JNKU2Pbc90Ffw==",
+      "lastSignedInAt": "1656650265425",
+      "createdAt": "1656650265425",
+      "providerUserInfo": []
+    },
+    {
+      "localId": "fjPnrPcpYHXviRHrrrrCkgrPdl73",
+      "email": "bambang@gmail.com",
+      "emailVerified": false,
+      "passwordHash": "ap+PPIQNE6hQ2rYb/z4CNIu+MnEZyqivH4bohReC7RPO534nX3zN2JC3FqjGniCKMaPZAjRHbxfZ8Gi6+Z43RA==",
+      "salt": "rl7Cb+C7tWntqA==",
+      "lastSignedInAt": "1656650529775",
+      "createdAt": "1656650529775",
+      "providerUserInfo": []
+    },
+    {
+      "localId": "jpRzSv8aScfbVa8YYv74cZfRBHz2",
+      "email": "ridwan@gmail.com",
+      "emailVerified": false,
+      "passwordHash": "ucIdb+0LgJZ7UIPSjNxgkJ0LvUWvCfchQrhoXZL/HYU+Ptl8M5VtTV+cfCm6gfRgJkb3BOt7OyWslDiU66uQjg==",
+      "salt": "bks7kVd1RSn1mg==",
+      "lastSignedInAt": "1657503027634",
+      "createdAt": "1655533929176",
+      "providerUserInfo": []
+    },
+    {
+      "localId": "tNxt9GbaCKeBOz3CoXkvAMwEeVF2",
+      "email": "edmundo.ferdinandus@gmail.com",
+      "emailVerified": false,
+      "passwordHash": "KfKYn7weDe7twKqa36Su3CbNDCyusJi/4wkeFJbB/ZeNwqD7UM7tja8bjOU8YPnUCCS4/Umk8xnYRkZC60p1bA==",
+      "salt": "V1DeZlZC8kJnGg==",
+      "lastSignedInAt": "1657502956938",
+      "createdAt": "1656329216366",
+      "providerUserInfo": []
+    }
+  ]
+}

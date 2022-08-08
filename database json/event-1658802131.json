@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "format": "JSON",
+        "version": "1.1.0",
+        "projectId": "alumni-fasilkom",
+        "resourcePath": [
+            "event"
+        ],
+        "recursive": false,
+        "creationTime": 1658802133,
+        "app": "firefoo"
+    },
+    "data": {
+        "Lo8TGKSJZzmIrtZ9Nc0W": {
+            "descEvent": "Akan dilakukan diskusi kampus mengenai kebijakan kampus pada masa COVID-19. Diskusi akan dilakukan di Aula Kemala Universitas Esa Unggul Kebon Jeruk.",
+            "jamEvent": "10:00-12:00",
+            "namaEvent": "Diskusi Kampus",
+            "tglEvent": "June 03, 2022",
+            "__collections__": {}
+        },
+        "YeZyGq1lXqhOaaNaCPNA": {
+            "descEvent": "Holaa sobat Unggul…!! ?\n\nJangan sampai ketinggalan lagi atau lupa absen di webinar hari jumat Nanti yap\nJumat, 24 Juni 2022\n13.00 – 14.30 WIB\nVia zoom: pendaftaran di https://seminar-web.esaunggul.ac.id/\n\nBakal ada pembicara yang keren yaitu Felisitas Kaban, seorang Psikolog & Professional Trainer dan free sertifikat loh.\n\nSee you yaa..",
+            "jamEvent": "13:00-14:30",
+            "namaEvent": "Webinar Mengatasi Toxic Environment & Relationship",
+            "tglEvent": "June 24, 2022",
+            "__collections__": {}
+        },
+        "d8b03hZMNfoSIC7Nw9ay": {
+            "descEvent": "Apakah kamu termasuk mahasiswa yang masih bingung menentukan topik / materi skripsi ? Yuk gabung dan temukan jawabannya dalam Webinar Akademika Series 12 dengan tema “Membuat Skripsi yang Berkualitas (Lanjutan)” bersama para narasumber yang ahli di bidangnya. Daftar melalui link berikut : https://bit.ly/WebinarAkademikaSeries12",
+            "jamEvent": "13:30 - 15:30",
+            "namaEvent": "Membuat Skripsi yang Berkualitas (Lanjutan)",
+            "tglEvent": "June 18, 2022",
+            "__collections__": {}
+        }
+    }
+}
